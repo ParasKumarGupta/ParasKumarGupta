@@ -1,7 +1,7 @@
 ## Hola, I'm [Paras Kumar Gupta!](https://coderavi.github.io/my-protfolio/)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> 
+<img src="https://komarev.com/ghpvc/?username=ParasKumarGupta&label=Profile views&color=green&style=plastic" alt="ParasKumarGupta" /> 
 </p>
 </a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 </a>
@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
            
  
-[![Twitter: ParasKumarGupta](https://img.shields.io/twitter/follow/ParasKumarGupta17?style=social)](https://twitter.com/ParasKumarGup17)
+[![Twitter: ParasKumarGupta](https://img.shields.io/twitter/follow/ParasKumarGup17?style=social)](https://twitter.com/ParasKumarGup17)
 [![Linkedin: ParasKumarGupta](https://img.shields.io/badge/-ParasKumarGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/i.am_paras701/) 
 [![GitHub ParasKumarGupta](https://img.shields.io/github/followers/ParasKumarGupta?label=follow&style=social)](https://github.com/ParasKumarGupta)
