@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
            
  
-[![Twitter: ParasKumarGupta](https://img.shields.io/twitter/follow/Paras Kumar Gupta17?style=social)](https://twitter.com/ParasKumarGup17)
+[![Twitter: ParasKumarGupta](https://img.shields.io/twitter/follow/ParasKumarGupta17?style=social)](https://twitter.com/ParasKumarGup17)
 [![Linkedin: ParasKumarGupta](https://img.shields.io/badge/-ParasKumarGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/i.am_paras701/) 
 [![GitHub ParasKumarGupta](https://img.shields.io/github/followers/ParasKumarGupta?label=follow&style=social)](https://github.com/ParasKumarGupta)
