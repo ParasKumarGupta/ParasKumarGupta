@@ -16,19 +16,19 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://github.com/ParasKumarGupta">
   <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
+<a href="https://stackoverflow.com/users/19095019/paras-kumar-gupta">
   <img align="left" alt="Paras Kumar Gupta's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
+<a href="https://www.instagram.com/i.am_paras701/">
   <img align="left" alt="Paras Kumar Gupta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100015202533195">
   <img align="left" alt="Paras Kumar Gupta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-<a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
+<a href="https://www.youtube.com/channel/UCyobVysTyDTHnFY-gI39jRg">
   <img align="left" alt="Paras Kumar Gupta's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.hackerrank.com/Avi_Avinash">
+<a href="https://www.hackerrank.com/11906922ParasKG">
   <img align="left" alt="Paras Kumar Gupta's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>	
 <br/>
@@ -36,18 +36,18 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 		
 - 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
+- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/19095019/paras-kumar-gupta?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @ParasKumarGup17](https://twitter.com/ParasKumarGup17) , [Youtube - @coderavi](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA),[Mail - @Paras Kumar Gupta](mailto:kumarparas422@gmail.com)
+- 📫 How to reach me: [Twitter - @ParasKumarGup17](https://twitter.com/ParasKumarGup17) , [Youtube - @Kumar Paras](https://www.youtube.com/channel/UCyobVysTyDTHnFY-gI39jRg), [Mail - @Paras Kumar Gupta](mailto:kumarparas422@gmail.com)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
            
  
-[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
-[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
-[![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/ParasKumarGupta)
+[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/ParasKumarGup17)
+[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/i.am_paras701/) 
+[![GitHub ParasKumarGupta](https://img.shields.io/github/followers/ParasKumarGupta?label=follow&style=social)](https://github.com/ParasKumarGupta)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.github.io/my-protfolio/)
 
 **Languages and Tools:**  
@@ -60,21 +60,21 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
 <a href="https://github.com/ParasKumarGupta">
-<img height="114em"src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="114em"src="https://github-readme-stats.vercel.app/api?username=ParasKumarGupta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
-<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ParasKumarGupta&layout=compact&langs_count=6&theme=algolia"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParasKumarGupta&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![ParasKumarGupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ParasKumarGupta&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Monterey 12.2.1</li>
-	    <li><b>Laptop: </b> Macbook Air 2019</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
+  	    <li><b>OS:</b>Window 11 </li>
+	    <li><b>Laptop: </b> Hp Pavillion</li>
+  	    <li><b>Browser: </b> Edge & Chrome</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Sublime, Jupyter, Anaconda</li>
+            <li><b>Cleverly using Linux Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
