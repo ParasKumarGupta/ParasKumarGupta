@@ -1,4 +1,4 @@
-## Hello, I'm [Avinash Avi!](http://www.avi-avinash.github.io/)👋
+## Hello, I'm [Paras Kumar Gupta!](http://www.paraskumargupta.github.io/)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=avi-avinash&label=Profile views&color=green&style=plastic" alt="avi-avinash" /> 
@@ -9,26 +9,26 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="#">
   <img align="left" alt="Avi-Avinash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="#">
-  <img align="left" alt="Avi-Avinash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/paras-kumar-gupta-28933917a/">
+  <img align="left" alt="Paras Kumar Gupta's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ParasKumarGupta">
+  <img align="left" alt="Paras Kumar Gupta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://stackoverflow.com/users/19095019/paras-kumar-gupta">
+  <img align="left" alt="Paras Kumar Gupta's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Avi-Avinash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Paras Kumar Gupta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100015202533195">
+  <img align="left" alt="Paras Kumar Gupta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Avi-Avinash's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Paras Kumar Gupta's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Avi-Avinash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Avi-Avinash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Avi-Avinash's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Avi-Avinash's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Paras Kumar Gupta's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 - 🔭 I’m currently working on my Academics as well as on cp.
