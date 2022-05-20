@@ -44,8 +44,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
            
  
-[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/ParasKumarGup17)
-[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
+[![Twitter: ParasKumarGupta](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/ParasKumarGup17)
+[![Linkedin: ParasKumarGupta](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/i.am_paras701/) 
 [![GitHub ParasKumarGupta](https://img.shields.io/github/followers/ParasKumarGupta?label=follow&style=social)](https://github.com/ParasKumarGupta)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.github.io/my-protfolio/)
