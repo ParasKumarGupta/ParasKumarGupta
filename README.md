@@ -40,11 +40,11 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Softwar
 <br/>
 <br/>
 		
-- 🔭 I’m currently working in PragmaticPlay as a software devloper [PragmaticPlay](https://pragmaticplay.com/).
-- 🌱 I’m currently learning more about Artificial Intelligence & Algorithms and Backend Development.
+- 🔭 I’m currently working as a DevOps Engineer in PragmaticPlay as a software devloper [PragmaticPlay](https://pragmaticplay.com/).
+- 🌱 I’m currently learning more about Software Devlopment, Artificial Intelligence, Algorithms and Backend Development.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/19095019/paras-kumar-gupta?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
-- 💬 Ask me about Artificial Intelligence, Big data, Software devlopment or any tech related stuff.
+- 💬 Ask me about DevOps, Artificial Intelligence, Big data, Software devlopment or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ParasKumarGup17](https://twitter.com/ParasKumarGup17) , [Youtube - @Kumar Paras](https://www.youtube.com/channel/UCyobVysTyDTHnFY-gI39jRg), [Mail - @Paras Kumar Gupta](mailto:kumarparas422@gmail.com)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
