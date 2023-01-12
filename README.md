@@ -54,7 +54,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Softwar
 [![Linkedin: ParasKumarGupta](https://img.shields.io/badge/-ParasKumarGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)](https://www.linkedin.com/in/paras-kumar-gupta-28933917a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/i.am_paras701/) 
 [![GitHub ParasKumarGupta](https://img.shields.io/github/followers/ParasKumarGupta?label=follow&style=social)](https://github.com/ParasKumarGupta)
-[![website](https://img.shields.io/badge/Portfolio-paraskumargupta.tech-2648ff?style=flat-square&logo=google-chrome)](https://github.com/ParasKumarGupta)
+[![website](https://img.shields.io/badge/Portfolio-paraskumargupta.tech-2648ff?style=flat-square&logo=google-chrome)]([https://github.com/ParasKumarGupta](https://paraskumargupta.github.io/))
 
 <h3>Languages and Tools:</h3>  
 <!-- 
