@@ -1,6 +1,7 @@
 ## Hola, I'm [Paras Kumar Gupta!](https://github.com/ParasKumarGupta)👋
 
-<h3 align="center">Machine Learning and BigData Enthusiast!</h3>
+<h3 align="center">Software Devleoper</h3>
+<h2 align="center">DevOps Engineer</h2>
 I am a tech enthusiast 💻 who loves programming & exploring more about Software Development,Artificial Intelligence!
 
 <p align="left">
@@ -92,7 +93,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Softwar
   	    <li><b>Browser: </b> Edge & Chrome</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Sublime, Jupyter, Anaconda</li>
             <li><b>Cleverly using Linux Terminal with node.js, python & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
 <div align="centre">
