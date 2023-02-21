@@ -84,7 +84,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Softwar
 <img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParasKumarGupta&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-[![ParasKumarGupta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ParasKumarGupta)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ParasKumarGupta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ParasKumarGupta&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![ParasKumarGupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ParasKumarGupta&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
