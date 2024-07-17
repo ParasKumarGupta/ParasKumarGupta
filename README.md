@@ -1,8 +1,8 @@
 ## Hola, I'm [Paras Kumar Gupta!](https://github.com/ParasKumarGupta)👋
 
 <h3 align="center">Software Devleoper</h3>
-<h2 align="center">DevOps Engineer</h2>
-I am a tech enthusiast 💻 who loves programming & exploring more about Software Development,Artificial Intelligence!
+<!-- <h2 align="center">DevOps Engineer</h2>
+I am a tech enthusiast 💻 who loves programming & exploring more about Software Development,Artificial Intelligence! -->
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ParasKumarGupta&label=Profile views&color=green&style=plastic" alt="ParasKumarGupta" /> 
