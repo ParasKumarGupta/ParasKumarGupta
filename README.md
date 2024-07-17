@@ -41,7 +41,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Softwar
 <br/>
 <br/>
 		
-- 🔭 I’m currently working as a DevOps Engineer in PragmaticPlay as a software devloper [PragmaticPlay](https://pragmaticplay.com/).
+- 🔭 I’m currently working as a Software Engineer in Arrise[PragmaticPlay](https://pragmaticplay.com/).
 - 🌱 I’m currently learning more about Software Devlopment, Artificial Intelligence, Algorithms and Backend Development.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/19095019/paras-kumar-gupta?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
