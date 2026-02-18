@@ -1,6 +1,6 @@
 ## Hola, I'm [Paras Kumar Gupta!](https://github.com/ParasKumarGupta)👋
 
-<h3 align="center">Software Devleoper</h3>
+<h3 align="center">DevOps Engineer</h3>
 <!-- <h2 align="center">DevOps Engineer</h2>
 I am a tech enthusiast 💻 who loves programming & exploring more about Software Development,Artificial Intelligence! -->
 
